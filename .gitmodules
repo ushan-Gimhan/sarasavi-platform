@@ -1,0 +1,9 @@
+[submodule "sarasavi-config-server"]
+	path = sarasavi-config-server
+	url = https://github.com/ushan-Gimhan/sarasavi-config-server.git
+[submodule "sarasavi-api-gateway"]
+	path = sarasavi-api-gateway
+	url = https://github.com/ushan-Gimhan/sarasavi-api-gateway.git
+[submodule "sarasavi-eureka-server"]
+	path = sarasavi-eureka-server
+	url = https://github.com/ushan-Gimhan/sarasavi-eureka-server.git
