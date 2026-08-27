@@ -4,7 +4,8 @@ This repository aggregates the Spring Cloud platform infrastructure services of 
 
 **Author**: S.K.M Ushan Gimhan  
 **Student ID**: 241711098  
-**Module**: ITS 2130 Enterprise Application Development  
+**Slack Handle**: Ushan Gimhan  
+**Module**: ITS 2130 — Enterprise Cloud Architecture  
 **GCP Project ID**: `project-af908f5b-1cbf-40dc-9a7`
 
 ---
